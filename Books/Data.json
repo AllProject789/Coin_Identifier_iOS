@@ -345,7 +345,8 @@
             }
           ]
         }
-      ]
+      ],
+      "subscription_product_id": "com.vasu.rare.coin.identifier.scanner.subscription.book.1"
     },
     {
       "id": 2,
@@ -691,7 +692,8 @@
             }
           ]
         }
-      ]
+      ],
+      "subscription_product_id": "com.vasu.rare.coin.identifier.scanner.subscription.book.2"
     },
     {
       "id": 3,
@@ -1007,7 +1009,8 @@
             }
           ]
         }
-      ]
+      ],
+      "subscription_product_id": "com.vasu.rare.coin.identifier.scanner.subscription.book.3"
     },
     {
       "id": 4,
@@ -1293,7 +1296,8 @@
             }
           ]
         }
-      ]
+      ],
+      "subscription_product_id": "com.vasu.rare.coin.identifier.scanner.subscription.book.4"
     },
     {
       "id": 5,
@@ -1579,7 +1583,8 @@
             }
           ]
         }
-      ]
+      ],
+      "subscription_product_id": "com.vasu.rare.coin.identifier.scanner.subscription.book.5"
     },
     {
       "id": 6,
@@ -1835,7 +1840,8 @@
             }
           ]
         }
-      ]
+      ],
+      "subscription_product_id": "com.vasu.rare.coin.identifier.scanner.subscription.book.6"
     },
     {
       "id": 7,
@@ -2091,7 +2097,8 @@
             }
           ]
         }
-      ]
+      ],
+      "subscription_product_id": "com.vasu.rare.coin.identifier.scanner.subscription.book.7"
     },
     {
       "id": 8,
@@ -2377,7 +2384,8 @@
             }
           ]
         }
-      ]
+      ],
+      "subscription_product_id": "com.vasu.rare.coin.identifier.scanner.subscription.book.8"
     }
   ]
 }
